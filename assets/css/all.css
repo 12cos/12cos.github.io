@@ -1,0 +1,29 @@
+.bar {
+  width: 1000px;
+  height: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#head-navbar {
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+#foot-navbar {
+  border-top: 1px solid black;
+}
+#content {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  text-align: center;
+}
+#container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#thebutton {
+  float: right;
+}
+body{
+  background-color: #6aa84f;
+}

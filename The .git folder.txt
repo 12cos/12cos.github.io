@@ -1,0 +1,2 @@
+Please do not delete, edit, rename or modify the contents of this folder.
+This folder contains revision history, and is created by a program named Git.
