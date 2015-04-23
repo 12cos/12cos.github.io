@@ -3,8 +3,10 @@
     <link href="assets/css/all.css" rel="stylesheet">
     <link href="assets/css/slideshow.css" rel="stylesheet">
     <script src="assets/js/3rdparty/jquery-1.11.2.min.js"></script>
+    <!-- This needs to be loaded externally as it has measures to prevent downloaded versions from working -->
+    <script src="https://cdn.firebase.com/js/client/2.2.4/firebase.js"></script>
     <script src="assets/js/3rdparty/unslider.min.js"></script>
-    <script src="assets/js/slideshow/homepage.js"></script>
+    <script src="assets/js/homepage.js"></script>
   </head>
   <body>
     <div id="container">
@@ -13,7 +15,7 @@
         <a href="overview.html">Overview</a>
       </div>
       <div id="content">
-        <h1>TBD: Title</h1>
+        <h1>The Te Henui Area</h1>
         <div class="slideshow">
           <ul>
             <li><img src="assets/images/pa_panorama_resized.jpg"/></li>
@@ -22,7 +24,7 @@
         </div>
       </div>
       <div class="bar" id="foot-navbar">
-        test
+        <a href="#" id="feedbackwindow">Feedback</a>
         <div id="thebutton">
           <!-- This is the Creative Commons license button. I have not modified it (apart from non-cosmetic changes such as aligning it on the page and adding line breaks in this code) so that I can abide by the license terms. -->
           <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
