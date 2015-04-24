@@ -1,6 +1,9 @@
 $(document).ready(function(){
   //Start the slideshow.
-  $('.slideshow').unslider();
+  $('.slideshow').unslider({
+    speed: 750,
+    delay: 2500
+  });
   //This should have loaded after Firebase has loaded. Initialise the feedback window.
   $('#feedbackwindow').click(function(){
     var name = prompt("Please enter your first name:");
