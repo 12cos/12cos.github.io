@@ -2,6 +2,8 @@ Hello! If you wish to modify this site and distribute your changes to others, pl
 
 Some files (anything in assets/js/3rdparty) are exempt from this as they aren't my work.
 
+jQuery is copyright 2015 by The jQuery Foundation, but is released under the jQuery License allowing free use.
+Unslider is not copyrighted, but the license name and terms it is released under contain inappropriate language.
 The HTML and CSS are protected by a Creative Commons license, meaning that:
 
 You can modify the HTML and CSS to your hearts' content, provided that you give me credit for originally creating this site, and the edited site uses the same license.

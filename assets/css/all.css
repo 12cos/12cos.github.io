@@ -7,6 +7,9 @@
 p {
   font-family: 'Lora' serif;
 }
+.placeholder {
+  background-color: red;
+}
 #head-navbar {
   border-bottom: 1px solid black;
   text-align: center;

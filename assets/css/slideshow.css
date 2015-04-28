@@ -1,4 +1,4 @@
-/*Unslider needs this to work*/
+/*Unslider needs this to work. Copied from unslider.com and slightly edited*/
 .slideshow { position: relative; overflow: auto; }
     .slideshow li { list-style: none; }
         .slideshow ul li { float: left; }
