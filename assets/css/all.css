@@ -33,3 +33,6 @@ p {
 body{
   background-color: #6aa84f;
 }
+styled-link {
+  border: 2px dotted white;
+}
