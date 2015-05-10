@@ -5,10 +5,15 @@
   margin-right: auto;
 }
 p {
-  font-family: 'Lora' serif;
+  font-family: 12pt 'Lora' serif;
 }
 .placeholder {
   background-color: red;
+}
+styled-link {
+  border: 2px dotted white;
+  padding-left: 7px;
+  padding-right: 7px;
 }
 #head-navbar {
   border-bottom: 1px solid black;
@@ -30,9 +35,6 @@ p {
 #thebutton {
   float: right;
 }
-body{
+body {
   background-color: #6aa84f;
-}
-styled-link {
-  border: 2px dotted white;
 }

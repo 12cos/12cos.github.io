@@ -1,14 +1,9 @@
 .overview-slider {
   width: 384px;
   height: 216px;
-  text-align: left;
-  padding-right: 20px;
 }
 
 .overview-info {
-  float: right;
   width: 250px;
   height: 75px;
-  text-align: right;
-  padding-left: 20px;
 }
